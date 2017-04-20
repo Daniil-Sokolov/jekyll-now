@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+  plugins: [jekyll-admin]
+ # This will require each of these plugins automatically.
